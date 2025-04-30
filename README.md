@@ -1,0 +1,6 @@
+- 👋 Hi, I’m @Murtxz
+- 👀 I’m interested in CyberSecurity, specifically pentesting
+- 🌱 I’m currently learning basics of Cybersecurity,networking from TryHackMe.
+- 💞️ I’m looking to collaborate on any beginner friendly projects
+- 📫 How to reach me : email me at kefla5253@gmail.com
+- 😄 Pronouns: He//Him
